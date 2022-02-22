@@ -1,1 +1,3 @@
-# SI_ebcf2
+-Download the package
+-Install processing 3
+-Run Atv2.pyde
